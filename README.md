@@ -1,5 +1,7 @@
 # gacha
 
+https://inudaiskii.shinyapps.io/gacha/
+
 環境:
 - R: 3.3.2
 - R studio: 1.0.44
